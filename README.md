@@ -1,5 +1,9 @@
 # GNOLANG 101
 
+<div align="center">
+	<img src="./banner.png" />
+</div>
+
 ## Contents 
 - [Introduction](##Introduction)
 - [Resources](##Resources)
@@ -102,4 +106,4 @@ Read the instructions and follow the checklist in order.
 ## Contribute
 Gnolang is a new language with new updates being shipped almost every day. We'll try to keep this course as up-to-date as possible, but we'd appreciate your help to cover as much information as possible. 
 
-Please take a look at the [contribution guidelines](https://github.com/onbloc/gnolang-101/contribution-guidelines.md) and become a TA by helping us develop this course!
+Please take a look at the [contribution guidelines](https://github.com/onbloc/gnolang-101/blob/main/Contribution%20Guidelines.md) and become a TA by helping us develop this course!
