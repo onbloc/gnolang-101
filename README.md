@@ -88,7 +88,7 @@ Read the instructions and follow the checklist in order.
 16. - [ ] `read` [package](https://github.com/gnolang/gno/tree/master/examples/gno.land/p/avl) `avl`
 17. - [ ] `read` [package](https://github.com/gnolang/gno/tree/master/examples/gno.land/p/dom) `dom`
 18. - [ ] `do` [gno-basics 005-import](https://github.com/moul/gno-basics/tree/main/005-import)
-19.  - [ ] `read` [package]((https://github.com/gnolang/gno/tree/master/examples/gno.land/p/grc/grc20)) `grc20`
+19. - [ ] `read` [package](https://github.com/gnolang/gno/tree/master/examples/gno.land/p/grc/grc20) `grc20`
 20. - [ ] `do` [gno-basics 006-grc20](https://github.com/moul/gno-basics/tree/main/006-grc20)
 21. - [ ] `read` [package](https://github.com/gnolang/gno/tree/master/examples/gno.land/p/grc/exts/vault) `vault`
 22. - [ ] `do` [gno-basics 007-vault](https://github.com/moul/gno-basics/tree/main/007-vault)
