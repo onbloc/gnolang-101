@@ -76,7 +76,7 @@ Read the instructions and follow the checklist in order.
 4.  - [ ] `read` [the Roadmap](https://github.com/gnolang/gno/blob/master/ROADMAP.md)
 5. - [ ] `do` [Join the Discord Server](https://discord.gg/3YbdqVP8Tb)
 6.  - [ ] `do` [the Official Golang Tutorial](https://go.dev/doc/tutorial/) (skip if you know Golang)
-7.  - [ ] `do` [Build](https://github.com/gnolang/gno/blob/master/examples/gno.land/r/boards/README.md#build-gnokey-create-your-account-and-interact-with-gno) `gnokey` [and create an account](https://github.com/gnolang/gno/blob/master/examples/gno.land/r/boards/README.md#build-gnokey-create-your-account-and-interact-with-gno)
+7.  - [ ] `do` [Build](https://test2.gno.land/r/boards:testboard/5) `gnokey` [and create an account](https://test2.gno.land/r/boards:testboard/5)
 8.  - [ ] `do` [Acquire testnet tokens from the faucet](https://test2.gno.land/faucet)
 9.  - [ ] `do` [Create a board, a post, and a comment on test2.gno.land](https://test2.gno.land/r/boards?help)
 10. - [ ] `do` [Set up a local node](https://github.com/gnolang/gno/blob/master/examples/gno.land/r/boards/README.md#starting-a-local-gnoland-node)
