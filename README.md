@@ -5,11 +5,11 @@
 </div>
 
 ## Contents 
-- [Introduction](##Introduction)
-- [Resources](##Resources)
-- [Course](##Course)
-- [Community](##Community)
-- [Contribute](##Contribute)
+- [Introduction](https://github.com/onbloc/gnolang-101#introduction)
+- [Resources](https://github.com/onbloc/gnolang-101#resources)
+- [Course](https://github.com/onbloc/gnolang-101#course)
+- [Community](https://github.com/onbloc/gnolang-101#community)
+- [Contribute](https://github.com/onbloc/gnolang-101#contribute)
 
 ## Introduction
 
@@ -46,11 +46,14 @@ A full list of resources that you will need to access throughout the course.
 - [awesome-gno](https://github.com/gnolang/awesome-gno)
 - [www.gno.land](https://github.com/gnolang/www.gno.land)
 - [tendermint](https://github.com/gnolang/tendermint)
+- [tendermint2](https://github.com/tendermint/tendermint2)
 - [bounties](https://github.com/gnolang/bounties)
 - [gno-basics](https://github.com/moul/gno-basics)
 - [adena-extension](https://github.com/onbloc/adena-extension)
+- [decentralists DAO](https://github.com/decentralists/DAO)
 
 ### Tutorials
+- [Gnoland Developer Portal](https://github.com/onbloc/gnoland-tutorials)
 - [The Official Golang Tutorial](https://go.dev/doc/tutorial/)
 - [The Gnoland Quickstart Guide](https://test2.gno.land/r/boards:testboard/5)
 - [Gno Basics](https://github.com/moul/gno-basics)
